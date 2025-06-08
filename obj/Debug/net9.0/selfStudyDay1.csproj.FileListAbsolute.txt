@@ -26,3 +26,4 @@
 /Users/musafir/Developer/dotNet/selfStudy-Dotnet/obj/Debug/net9.0/selfStudyDay1.pdb
 /Users/musafir/Developer/dotNet/selfStudy-Dotnet/obj/Debug/net9.0/selfStudyDay1.genruntimeconfig.cache
 /Users/musafir/Developer/dotNet/selfStudy-Dotnet/obj/Debug/net9.0/ref/selfStudyDay1.dll
+/Users/musafir/Developer/dotNet/selfStudy-Dotnet/obj/Debug/net9.0/selfStudyDay1.sourcelink.json

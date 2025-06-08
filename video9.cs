@@ -4,7 +4,7 @@ namespace selfStudy;
 class Program9
 {
     // Main Class
-    static void Main()
+    static void Main1()
     {
         // single Line comments
         /* Multiple Line comment */
